@@ -3,7 +3,7 @@ template: index-page
 slug: /
 title: Equili
 tagline: Tech. Community. Diversified. 
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/ElaineWebSquare.jpg
 cta:
   ctaText: Learn more
   ctaLink: /about
