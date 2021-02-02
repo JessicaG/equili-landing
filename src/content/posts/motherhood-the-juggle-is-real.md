@@ -3,7 +3,7 @@ template: blog-post
 title: Motherhood - The juggle is real
 slug: /motherhood-the-juggle-is-real
 date: 2019-03-07
-description: 
+description: Motherhood, the juggle is real
 featuredImage: /assets/the-juggle-is-real.png
 author: Cheryl Lock
 ---

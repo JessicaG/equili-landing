@@ -3,7 +3,7 @@ template: blog-post
 title: How to get noticed in an increasingly crowded playing field
 slug: /how-to-get-noticed-in-an-increasingly-crowded-playing-field
 date: 2019-02-25
-description: 
+description: How to get noticed in an increasingly crowded playing field
 featuredImage: /assets/tips-for-getting-noticed.png
 ---
 ## An HR manager shares her top tips and tricks to standing out in tech

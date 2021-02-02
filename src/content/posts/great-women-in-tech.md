@@ -3,7 +3,7 @@ template: blog-post
 title: Great women in tech
 slug: /great-women-in-tech
 date: 2019-03-25
-description: 
+description: great women in tech
 featuredImage: /assets/Great-women-in-tech.png
 ---
 # Great women in tech
