@@ -80,8 +80,8 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `Equili`,
+        short_name: `Equili`, 
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
