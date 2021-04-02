@@ -5,7 +5,7 @@ slug: /motherhood-the-juggle-is-real
 date: 2019-03-07
 description: Motherhood, the juggle is real
 featuredImage: /assets/the-juggle-is-real.png
-author: Cheryl Locks
+author: Cheryl Lock
 ---
 It should come as no surprise that having children while attempting a career at the same time is quite the juggle. As a single mom of six, Heather MacKenzie knows this all too well. The most surprising part of Heather’s story might be just how successful she’s been — as co-founder of SheEO Colorado, as a consultant and keynote speaker, among many other things — while raising six happy, thriving kids at the same time.
 
