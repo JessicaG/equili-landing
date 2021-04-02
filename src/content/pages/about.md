@@ -34,3 +34,39 @@ See these studies to understand the deep intrinsic value of diversity and inclus
 [“Is Gender Diversity Profitable? Evidence From a Global Survey”](http://web.archive.org/web/20200123092436/https://piie.com/publications/wp/wp16-3.pdf) – Peterson Institute for International Economics
 
 [“Great Leaders Who Make the Mix Work”](http://web.archive.org/web/20200123092436/https://hbr.org/2013/09/great-leaders-who-make-the-mix-work) – Harvard Business Review
+
+
+# Currently Equili is not accepting new clients. 
+
+### If you are looking for D&I consultative work, we recommend:
+- [Ready Set](https://www.thereadyset.co/)
+
+- [Racy Conversations](http://racyconversations.com/)
+
+- [The Dignitas Agency](https://dignitasagency.com/)
+- [Gen Lead | Belong Lab](http://www.genlead.co/)
+- [Awaken](https://www.visionawaken.com/)
+- [Recruiting Innovation](https://recruitinginnovation.com/)
+
+## Founder Bio
+
+Elaine Marino spearheaded a movement to transform diversity in the tech space as Founder of Equili, CoDiv and the LadyCoders Conference. As a former Ruby on Rails developer, she experienced the tremendous diversity gap in software development: women and people of color were woefully underrepresented. Elaine saw clearly how change could be made for the better with her unique perspective on the tech industry as both an insider and an outsider. At Equili, she designs, implements, and manages events, workshops, and content aimed at bringing more diversity into the tech arena. As the Founder of CoDiv she co-created a community organization providing a safe space to learn, share and support people who care about diversity and inclusion. As Founder of the LadyCoders Conference, she helps women and non-binary technologists who are on the front lines of tech’s diversity and inclusion problem thrive in their careers and stay in the industry. In 2018 she was the recipient of the Micki Nelson Lifetime Achievement Award from SIM Women for her work mentoring women in tech. Elaine is an accomplished public speaker and an alum of Georgetown University.
+
+To book a speaking engagement please email info@equi.li with the subject line: "Speaker Inquiry" 
+
+Elaine social links: [LinkedIn](https://www.linkedin.com/in/elainemarino/), [Twitter](https://twitter.com/elaine_marino)
+
+## Content we recommend:
+- [Choose Inclusion Podcast](https://chooseinclusion.com/)
+- [Baratunde Thurston TedX](https://www.ted.com/talks/baratunde_thurston_how_to_deconstruct_racism_one_headline_at_a_time?language=en)
+- [Verna Meyers TedX](https://www.ted.com/talks/verna_myers_how_to_overcome_our_biases_walk_boldly_toward_them)
+- [Melody Hobson TedX](https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave)
+- [Regina Hartley TedX](https://www.ted.com/talks/regina_hartley_why_the_best_hire_might_not_have_the_perfect_resume?language=en)
+
+
+## Thought Leaders to Follow:
+- [Rachel Cargle](https://www.rachelcargle.com/)
+- [Layla Saad](http://laylafsaad.com/)
+- [Ibrahm X. Kendi](https://www.ibramxkendi.com/)
+- [Ta’Nehisi Coates](https://ta-nehisicoates.com/)
+
