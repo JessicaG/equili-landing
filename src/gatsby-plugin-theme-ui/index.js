@@ -32,9 +32,9 @@ export default {
   },
   links: {
     postLink: {
-      color: 'muted',
+      color: '#8990AF',
       '&:hover': {
-        color: 'text'
+        color: 'muted'
       }
     },
     button: {
