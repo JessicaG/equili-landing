@@ -86,7 +86,7 @@ module.exports = {
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
-        icon: "static" + "/src/assets/equili-logo-navy.png",
+        icon: "static" + "/assets/equili-logo-navy.png",
       },
     },
     'gatsby-plugin-offline',
