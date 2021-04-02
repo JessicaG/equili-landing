@@ -4,7 +4,7 @@ title: Great women in tech
 slug: /great-women-in-tech
 date: 2019-03-25
 description: great women in tech
-featuredImage: /assets/Great-women-in-tech.png
+featuredImage: /assets/Great-Women-in-tech.png
 ---
 # Great women in tech
 Every March, we celebrate Women’s History Month and International Women’s Day. But let’s be honest, why is it just a month? As far as we’re concerned, every day, week, and month are great times to celebrate women around the world. Still, we won’t let the opportunity to tout some awesome women in tech pass us by. So this month, we’re diving into the past to celebrate the pioneers who set the stage for us as we look to the future.
@@ -16,7 +16,7 @@ You’ve likely heard the names of many of these great women in tech, but how we
 The daughter of the “Princess of Parallelograms,” Annabella Milbanke and Lord Byron, Ada Lovelace is often referred to as the first programmer. Born in 1815, she was tutored in mathematics from a young age, encouraged by her STEM-minded mother. Ada pursued her love and talent for math into her teens with mentors Mary Sommerville and Charles Babbage. At 27, she published her notes (and translation) on the Analytical Engine in which she described a stepwise sequence of operations for programming. Her forward thinking even saw past the limitations of her time, theorizing that the Engine could extend beyond numerical values and function beyond calculation to computation.
 
 ## Amazing Grace
-![Grace Hopper](/assets/Grace_Hopper.jpg "Grace Hopper")
+![Grace Hopper](/assets/Grace_Hopper.jpeg "Grace Hopper")
 Grace Hopper was a US Naval Rear Admiral and computer scientist. In 1928 she completed her Bachelor’s degree in mathematics and physics at Vassar before earning a Ph.D. in mathematics from Yale University in 1934. During WWII, Grace joined the Navy Reserves and became one of the first programmers of the Harvard Mark I computer. She went on to contribute to the development of UNIVAC I, the first commercial electronic computer, invented one of the first linkers, and popularized the idea of machine-independent programming languages. Her pioneering vision for CS was to evolve past numerical programming and develop a programming language written in English led to the development of COBOL, which we still use today.
 
 ## To infinity and beyond
